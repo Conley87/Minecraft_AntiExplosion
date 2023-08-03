@@ -1,0 +1,4 @@
+name: AntiExplosion
+version: '${project.version}'
+main: one.suzuran.antiexplosion.AntiExplosion
+api-version: 1.20

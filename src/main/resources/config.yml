@@ -1,0 +1,19 @@
+#true开启保护 false关闭
+#TNT爆炸保护
+TNT: false
+#末影水晶爆炸保护
+ENDER_CRYSTAL: false
+#苦力怕爆炸保护
+CREEPER: true
+#凋零头爆炸保护
+WITHER_SKULL: true
+#凋零生成爆炸保护
+WITHER: true
+#恶魂火焰弹爆炸保护
+FIREBALL: true
+#矿车TNT
+MINECART_TNT: false
+#地狱是否能使用床
+NETHER_BED: true
+#末地
+END_BED: true
